@@ -1,0 +1,16 @@
+#brand-logo {
+  width: 180px;
+}
+
+.bg-dark {
+  min-height: 120px;
+  transition: .30s all ease-in;
+  background: transparent !important;
+}
+
+.bg-dark.scrolled {
+  min-height: 60px;
+  transition: .45s all ease-out;
+  background: rgb(45,45,45) !important;
+}
+
